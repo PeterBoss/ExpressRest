@@ -1,3 +1,5 @@
 # ExpressRest
 
-npm install -> npm start
+edit dbconnection.js to connect to correct database.
+npm install
+npm start
